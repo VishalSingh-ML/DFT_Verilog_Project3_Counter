@@ -16,7 +16,7 @@ DFT_Verilog_Project3_Counter
 
 ## ✅ Simulation Output
 
-![waveform_counter](./waveform_counter.png)
+https://github.com/VishalSingh-ML/DFT_Verilog_Project3_Counter/blob/main/Waveform%20Counter.png
 
 ## 👨‍💻 Author
 **Vishal Singh**  
